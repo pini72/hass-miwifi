@@ -1,4 +1,4 @@
-this fork is working in HA 2025
+#this fork is working in HA 2025
 # MiWiFi for Home Assistant
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 [![CodeQL](https://img.shields.io/badge/CODEQL-Passing-30C854.svg?style=for-the-badge)](https://github.com/dmamontov/hass-miwifi/actions?query=CodeQL)
