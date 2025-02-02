@@ -351,7 +351,7 @@ class MiWifiDeviceTracker(ScannerEntity, CoordinatorEntity):
         :return str: Source type router
         """
 
-       return SourceType.ROUTER
+        return SourceType.ROUTER
 
     @cached_property
     def entity_registry_enabled_default(self) -> bool:
